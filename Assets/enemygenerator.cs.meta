@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7d4e77db53aa7ef429fbd1ba1690d4ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy1Prefab: {fileID: 7717432586731719920, guid: 6bcb0ecee39fc384fb757f16413f8ca7, type: 3}
+  - enemy2Prefab: {fileID: 6715516465095260663, guid: 08c8f86a6b966b0478060482603f1fe5, type: 3}
+  - enemy3Prefab: {fileID: 535566733917607021, guid: 3808110eabadc9d48a3f0ff800a83159, type: 3}
+  - enemy4Prefab: {fileID: 6340821106754497406, guid: 9c0b6884f3f089b44839507a6a5416ee, type: 3}
+  - enemy5Prefab: {fileID: 3778203481842502377, guid: a4bc1987f44dda3479194d7365547017, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
